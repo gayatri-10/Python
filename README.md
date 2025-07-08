@@ -10,6 +10,7 @@ This repository includes examples and practice files covering:
 
 ✅Identifiers
 
+✅Individual Data Types
 .
 
 .
