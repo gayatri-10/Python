@@ -5,6 +5,7 @@ A beginner-friendly collection of Python scripts focused on strengthening core p
 
 ## 📘 What's Inside
 This repository includes examples and practice files covering:
+
 ✅ Keywords
 ✅Identifiers
 .
